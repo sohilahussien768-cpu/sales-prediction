@@ -41,8 +41,7 @@ Tree-based models (Decision Tree, Random Forest) substantially outperform the li
 
 ```
 sales-prediction/
-├── notebooks/
-│   └── sales-prediction.ipynb   # full EDA + modeling notebook
+├── sales-prediction.ipynb   # full EDA + modeling notebook
 ├── images
 └── README.md
 ```
