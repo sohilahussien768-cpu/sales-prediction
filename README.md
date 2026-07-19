@@ -47,16 +47,6 @@ sales-prediction/
 └── README.md
 ```
 
-## Getting Started
-
-```bash
-git clone https://github.com/<your-username>/sales-prediction.git
-cd sales-prediction
-pip install -r requirements.txt
-jupyter notebook notebooks/sales-prediction.ipynb
-```
-
-The notebook expects the dataset at `data/Sales Dataset.csv` (originally sourced from Kaggle — add your own copy locally; it isn't included in this repo, see `.gitignore`).
 
 ## Author
 
